@@ -1,8 +1,7 @@
 ## Madlibs Word Game 
 
 Mad Libs game in Python! 
-Mad Libs is a word game where players are prompted for a list of words to substitute for blanks in a story,   
-before reading the – often comical or nonsensical – story aloud.   
+Mad Libs is a word game where players are prompted for a list of words to substitute for blanks in a story.    
 The game requires basic input from the user and then incorporates those inputs into a predefined text template.
 
 
